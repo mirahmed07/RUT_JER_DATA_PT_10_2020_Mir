@@ -1,2 +1,5 @@
-# excel_homework_RU_bootcamp_mir
+# excel-challenge
 Excel homework for Rutgers data science bootcamp by Mir
+
+
+Various graphs along with pivot tables and bonus statistical analysis on kickstarter data
